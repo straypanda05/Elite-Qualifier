@@ -1,6 +1,6 @@
 # Title
 
-Simple (or clever and funny?) description
+Repl collab with github
 
 ## Table of Contents
 
@@ -12,14 +12,13 @@ Simple (or clever and funny?) description
 
 ## Background
 
-This is why this application exists.
+To write and collab with others
 
-## Install
+## Actions
 
 These are the steps to setup your local environment to run this application.
+- from github: commit change and pull from github to repl
+- from repl: commit and push to github.
 
-## Usage
-
-These are the steps to use the application or interact with it.
 
 ### Any optional sections
