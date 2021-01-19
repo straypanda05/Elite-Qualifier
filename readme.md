@@ -22,3 +22,10 @@ These are the steps to setup your local environment to run this application.
 
 
 ### Any optional sections
+
+## Test Plan
+
+To test the project:
+
+1. Run the test
+2. Check the result
